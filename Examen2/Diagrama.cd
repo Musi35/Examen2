@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Examen2.Connection" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Connection.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_actividades" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BECgCAAAUDAhAABgEMKAAYACgAAEQIAQAoAAAAAAQSA=</HashCode>
+      <FileName>frm_actividades.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_colonia" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAgCAEAQDABAABgEMKAAYACAAAEQIAYAIAAAAAAQSA=</HashCode>
+      <FileName>frm_colonia.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_consulta" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAABEKAAAACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>frm_consulta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_cuadrilla" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAgCAAAQDABAABgEMKAAYACAAAEQIAYAIAAAAAAQSA=</HashCode>
+      <FileName>frm_cuadrilla.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_empleado" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BECgCAAAQDABAEBgEMKAAYAiAAEEQIAYgIAAAAAAQSA=</HashCode>
+      <FileName>frm_empleado.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_login" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAEACAAAAiAAAAAgAQACAIAAAAAGA=</HashCode>
+      <FileName>frm_login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.frm_main" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACACAABAAACAAYCCAEAEAIAQAIAAAAAAAQA=</HashCode>
+      <FileName>frm_main.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.Model_Actividades" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Model_Actividades.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.Model_Colonia" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAABAgAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model_Colonia.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.Model_Consulta" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model_Consulta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.Model_Cuadrilla" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAAAA=</HashCode>
+      <FileName>Model_Cuadrilla.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.Model_Empleado" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAQAAABAAAIAA=</HashCode>
+      <FileName>Model_Empleado.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen2.My.MySettings" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Examen2.My.MySettingsProperty" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Examen2.My.Resources.Resources" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
